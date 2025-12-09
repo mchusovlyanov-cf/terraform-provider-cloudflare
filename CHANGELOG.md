@@ -1,5 +1,25 @@
 # Changelog
 
+## 5.15.0 (2025-12-09)
+
+Full Changelog: [v5.14.0...v5.15.0](https://github.com/cloudflare/terraform-provider-cloudflare/compare/v5.14.0...v5.15.0)
+
+### Features
+
+* chore: update go to point to next ([25d640a](https://github.com/cloudflare/terraform-provider-cloudflare/commit/25d640a4d4b60b23504fae2ceb3250a432dde8af))
+* docs: Deprecate API Shield Schema Validation resources ([366e1b8](https://github.com/cloudflare/terraform-provider-cloudflare/commit/366e1b8cd631ff8e1b7fc1230def2c13d0aea680))
+
+
+### Bug Fixes
+
+* map missing fields during spectrum resource import ([#6495](https://github.com/cloudflare/terraform-provider-cloudflare/issues/6495)) ([ddb4e72](https://github.com/cloudflare/terraform-provider-cloudflare/commit/ddb4e722b82c735825a549d651a9da219c142efa))
+
+
+### Chores
+
+* **api:** update composite API spec ([286ab55](https://github.com/cloudflare/terraform-provider-cloudflare/commit/286ab55bea8d5be0faa5a2b5b8b157e4a2214eba))
+* **internal:** codegen related update ([fb11c74](https://github.com/cloudflare/terraform-provider-cloudflare/commit/fb11c748d77efb9f1bbac2553c6c0374134bc290))
+
 ## 5.14.0 (2025-12-06)
 
 Full Changelog: [v5.13.0...v5.14.0](https://github.com/cloudflare/terraform-provider-cloudflare/compare/v5.13.0...v5.14.0)
